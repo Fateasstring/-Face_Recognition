@@ -1,2 +1,2 @@
-# -Face_Recognition
-人脸坐标识别模块
+# face_rec
+人脸识别程序
